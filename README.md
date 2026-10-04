@@ -23,6 +23,6 @@ Full-Stack developer
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ваш-ник&show_icons=true&theme=tokyonight)
+
 
 </div>
