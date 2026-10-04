@@ -1,9 +1,9 @@
 # AFKKEY / PYTHON | JAVASCRIPT | CSS | C++ 
 <div align="center">
 
-# 👋 Привет, я Иван Петров
+# 👋 Hi i afkkey
 
-Full-Stack разработчик. Пишу чистый код и решаю сложные задачи.
+Full-Stack developer 
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Languages](https://img.shields.io/badge/languages-Python%20%7C%20Go%20%7C%20JS-blue)
@@ -17,17 +17,9 @@ Full-Stack разработчик. Пишу чистый код и решаю с
 - **Базы данных:** PostgreSQL, Redis
 - **Инфраструктура:** Docker, Kubernetes, GitLab CI
 
-## 📂 Популярные репозитории
-
-| Проект | Описание | Технологии |
-|---|---|---|
-| [Awesome-API](https://github.com/ваш-ник/Awesome-API) | REST-сервис для управления задачами | FastAPI, PostgreSQL |
-| [Data-Cleaner](https://github.com/ваш-ник/Data-Cleaner) | Утилита для парсинга и очистки данных | Python, Pandas |
-
 ## 📬 Контакты
-- 📧 Почта: `your.email@example.com`
-- 💬 Telegram: `@your_nickname`
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📧 DISCORD: `besttoxing`
+
 
 <div align="center">
 
